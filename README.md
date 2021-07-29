@@ -1,4 +1,6 @@
-# vue-skills
+# vue-skills-list
+
+TODO: disable the posibility to add repeated skills
 
 ## Project setup
 ```
